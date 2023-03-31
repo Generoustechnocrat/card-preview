@@ -199,7 +199,7 @@ body{
 		display: flex;
 		align-items: center;
 		justify-content: center;
-		gap: 15px;
+		gap: 10px;
 		
 	}
 	.big_price{
@@ -215,7 +215,7 @@ body{
 		font-size:14px;
 		font-family: 'Montserrat', sans-serif;
 		font-family: 'Outfit', sans-serif;
-		margin-top:5px;
+		
 }
 button{
 		background-color:hsl(158, 36%, 37%);
