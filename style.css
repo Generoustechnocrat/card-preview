@@ -71,25 +71,28 @@ body{
 		 font-weight: 700;
 		
 	}
+	
+	.prices {
+		display: flex;
+		align-items: center;
+		justify-content: flex-start;
+		gap: 30px;
+		
+	}
+	
 	.big_price{
 		color:hsl(158, 36%, 37%);
 		font-size:40px;
 		font-family: 'Fraunces', serif;
-		font-family: 'Montserrat', sans-serif;
-		font-family: 'Outfit', sans-serif;
 		font-weight:700;
-		margin-right:15px;
-		
 	}
+	
 	.small_price{
 		color:hsl(228, 12%, 48%);
 		font-size:14px;
 		font-family: 'Montserrat', sans-serif;
-		font-family: 'Outfit', sans-serif;
 		text-align:center;
 		font-weight:500;
-		
-		
 	}
 	button{
 		background-color:hsl(158, 36%, 37%);
