@@ -83,6 +83,8 @@ body{
 	.big_price{
 		color:hsl(158, 36%, 37%);
 		font-size:40px;
+font-family: 'Montserrat', sans-serif;
+		font-family: 'Outfit', sans-serif;
 		font-family: 'Fraunces', serif;
 		font-weight:700;
 	}
