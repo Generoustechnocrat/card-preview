@@ -199,7 +199,7 @@ body{
 		display: flex;
 		align-items: center;
 		justify-content: flex-start;
-		gap: 30px;
+		gap: 15px;
 		
 	}
 	.big_price{
@@ -209,7 +209,6 @@ body{
 		font-family: 'Fraunces', serif;
 		font-family: 'Outfit', sans-serif;
 		font-weight:700;
-		margin-top:15px;
 }
 .small_price{
 		color:hsl(228, 12%, 48%);
